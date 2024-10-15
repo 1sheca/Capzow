@@ -62,5 +62,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-This provides a clean and concise overview for potential contributors or users of your Capzow web application. Let me know if you need further adjustments!
